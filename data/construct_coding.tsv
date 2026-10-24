@@ -1,0 +1,92 @@
+citekey	species	design	construct	instrument	evidence	confidence
+abraham2010	rodent	empirical	discrimination	two-odour go/no-go (cineol vs eugenol, binary mixtures)	full text: odour discrimination time and accuracy in a go/no-go task after OB GluA2 deletion; in vivo whole-cell recordings of recurrent IPSPs evoked by current injection, not by odour	high
+ahnaou2020	rodent	empirical	none	-	full text: LFP recorded monthly in the home cage during the dark phase; the "olfactory stimulation" hit was a reference-list citation	high
+alotaibi2023	human	empirical	none	-	MRI neuronal loss in olfactory cortex; olfaction not tested	high
+alvaradomartnez2013	rodent	empirical	detection	buried food + odour habituation	full text: recorded SPONTANEOUS OB network activity with Ass application (slices and in vivo); no odour stimulation	high
+alves2024	human	empirical	none	-	OR2K2 expression in choroid plexus	high
+arriagada1992	human	empirical	none	-	neurofibrillary tangle counts vs dementia severity	high
+attems2005	human	empirical	none	-	autopsy tau in olfactory bulb; no behavioural testing	high
+audronyte2023	human	empirical	discrimination	Sniffin' Sticks discrimination	"investigate odor discrimination in patients with early AD"	high
+beshel2007	rodent	empirical	discrimination	two-odour go/no-go	gamma recorded during fine odour discrimination	high
+boccardi2021	none	framework	none	-	biomarker roadmap methodology	high
+bouchoucha2026	human	empirical	identification	standardised odour identification	post-mortem tau vs olfactory identification score	medium
+braak1991	human	empirical	none	-	neuropathological staging	high
+chen2021	rodent	empirical	detection	buried food	gamma rescue by GABAergic enhancement; buried-food readout	high
+chetty2024	human	empirical	none	-	resting EEG spectral/connectivity features	high
+dan2023	rodent	empirical	detection+discrimination	buried food + habituation/dishabituation + preference	systematic olfactory behavioural battery in ageing C57BL/6J	high
+devanand2015	human	empirical	identification	UPSIT-40	"evaluated with the 40-item UPSIT"	high
+dibattista2020	both	review	none	-	review of the peripheral olfactory system	high
+diez2024	human	empirical	identification	odour identification	"baseline olfactory identification measures with longitudinal PET"	high
+dintica2019	human	empirical	identification	B-SIT	"assessed using the Brief Smell Identification Test"	high
+doorduijn2020	human	empirical	detection+discrimination+identification	Sniffin' Sticks T+D+I	"assessed olfactory threshold, odor discrimination and odor identification"	high
+doty1984	human	methods	identification	UPSIT	the UPSIT instrument paper	high
+doty2008	both	review	none	-	olfactory vector hypothesis review	high
+double2003	human	empirical	identification	B-SIT	pattern of odour identification deficits in Parkinson disease	high
+eteleeb2024	human	empirical	none	-	multi-omics molecular subtypes	high
+franco2024	both	review	none	-	review of olfaction in neurodegeneration	high
+geng2025	rodent	empirical	detection+discrimination	go/no-go discrimination + detection threshold	LC-NA modulation of olfactory output and behaviour	high
+griffiths2023	both	review	none	-	review of synapse pathology	high
+growdon2015	human	empirical	identification	UPSIT-40	"40-item UPSIT" vs hippocampal volume and PiB PET	high
+hedner2010	human	empirical	detection+discrimination+identification	Sniffin' T+D+I with cognitive battery	"assessed in olfactory sensitivity, discrimination, and identification"	high
+hernndezsoto2019	rodent	empirical	detection	odour detection	full text: OB LFP recorded "for 60 min under resting conditions (basal spontaneous activity)" and "during the buried food tests" - odour-driven behaviour, NOT stimulus-locked	high
+hsiao1996	rodent	empirical	none	-	spatial reference and alternation memory; no olfaction	high
+invitto2018	human	empirical	none	-	olfactory event-related potentials, not a psychophysical score	medium
+jankowsky2004	rodent	empirical	none	-	Abeta42 biochemistry	high
+jobin2025	human	empirical	discrimination+identification	AROMHA remote battery	"odor identification, discrimination, memory, and intensity"	high
+kale2024	none	review	none	-	AI in AD review	high
+kareken2003	human	empirical	detection+discrimination+identification	PET during sensation, discrimination, identification	all three tasks contrasted in one design	high
+kelly2017	human	empirical	none	-	locus coeruleus stereology	high
+kent2020	both	review	none	-	review of tau/Abeta physiology	high
+kjelvik2007	human	empirical	identification	B-SIT	B-SIT validation in Norwegian AD cohort	high
+klein2021	human	empirical	identification	UPSIT	"odor identification performance measured with the UPSIT"	high
+koenig2005	human	empirical	none	-	resting EEG global field synchronization	high
+kondo2020	human	review	none	-	review of age-related olfactory dysfunction	high
+lafaillemagnan2017	human	empirical	identification	UPSIT	odour identification in the PREVENT-AD cohort	high
+larsson2009	human	review	other-memory	-	autobiographical odour memory; not one of the three constructs	high
+leng2021	both	review	none	-	neuroinflammation review	high
+lepousez2013	rodent	empirical	discrimination	two-odour discrimination	"Odor discrimination requires proper olfactory fast oscillations"	high
+li2019	rodent	empirical	detection+discrimination	buried food + detection threshold + discrimination	full text: methods are Golgi, immunofluorescence, electron microscopy, Western blot and behaviour. NO electrophysiology at all; dendrodendritic inhibition is inferred anatomically	high
+liu2013	rodent	empirical	none	-	full text: inter-bulbar LFP coherence in awake mice, odour presented at 28 s ISI; no behavioural score reported	high
+liu2025	human	review	detection+discrimination+identification	-	systematic review of olfactory function testing	high
+loewenstein2024	human	empirical	identification	odour identification	FDG PET of the olfactory circuit with identification scores	medium
+lu2021	human	empirical	identification	SIT-12	full text: "Performance on the 12-item smell identification test (SIT-12) was used as a proxy for olfactory function"	high
+maheshwari2025	both	review	none	-	review of olfactory biomarker models	high
+manabe2013	rodent	empirical	none	-	full text: LFP recorded across behavioural STATES (waking/SWS/REM); the only odor-discrimination mention cites Beshel 2007, not their own task	high
+mantovani2024	human	review	none	-	gustatory, not olfactory, dysfunction	high
+marin2018	both	review	none	-	review of olfactory dysfunction in neurodegeneration	high
+martin2014	rodent	review	discrimination	go/no-go odour memory tasks	beta/gamma during olfactory memory and discrimination tasks	medium
+min2021	human	empirical	detection	sniffing bead + YSK threshold	screening tool validated against threshold scores	high
+mucke2000	rodent	empirical	none	-	synaptotoxicity of Abeta42; no olfaction	high
+narukawa2022	rodent	empirical	detection	olfactory behaviour in App-KI	full text: repeated habituation protocol described as measuring olfactory sensitivity in App-KI mice	high
+niimura2006	none	empirical	none	-	comparative genomics of olfactory receptor genes	high
+nunes2015	rodent	empirical	discrimination	go/no-go, binary mixtures at increasing dilution	full text: "go/no-go operant-conditioning paradigm ... accelerates odour discrimination times"; recordings are in vitro slice whole-cell, not odour-evoked	high
+oakley2006	rodent	empirical	none	-	5xFAD plaque pathology characterisation	high
+oddo2003	rodent	empirical	none	-	3xTg-AD model characterisation	high
+olcay2025	human	empirical	none	-	full text: EEG timing features evoked by olfactory stimulation in mild AD; no psychophysical score	high
+oltra2026	human	empirical	detection+discrimination+identification	Sniffin' Sticks	12-year population study of olfactory impairment and dementia	medium
+pacyna2023	human	empirical	identification	odour identification	"assessed annually for odor identification"	high
+paitel2025	human	review	none	-	systematic review of EEG connectivity	high
+papaliagkas2008	human	empirical	none	-	AUDITORY event-related potentials; not olfactory	high
+pepe2001	none	framework	none	-	cancer biomarker development phases	high
+piechal2023	human	empirical	detection+discrimination+identification	Sniffin' Sticks TDI	threshold, discrimination and identification in Wilson's disease	high
+rajani2022	both	review	none	-	review of noradrenergic modulation of piriform cortex	high
+rey2012	rodent	empirical	discrimination	spontaneous odour discrimination + habituation	"olfactory memory and discrimination in an AD mouse model"	high
+salimi2022	rodent	empirical	none	-	full text: LFPs recorded from OB-EC-dHPC during NOVEL OBJECT RECOGNITION task, not during odour presentation	high
+santillnmorales2024	human	review	none	-	review of olfactory neuronal precursors as biomarkers	high
+smailovic2021	human	empirical	none	-	quantitative EEG and APOE genotype	high
+son2021a	both	review	none	-	review of olfactory neuropathology in AD	high
+son2021b	rodent	empirical	detection	buried pellet	region-specific Abeta and olfactory sensory neuron dysfunction	high
+suh2020	human	case report	detection+discrimination+identification	Sniffin' Sticks TDI	single case of vascular dementia	high
+tan2024	human	review	none	-	smoking and chronic rhinosinusitis meta-analysis	high
+tavoni2021	none	modelling	none	-	statistical model of odour discrimination and generalisation	high
+thomann2009	human	empirical	none	-	MRI atrophy of olfactory bulb and tract	high
+wang2023	human	empirical	identification	B-SIT (Korean)	olfactory function vs cerebral amyloid and cognition	high
+wilson2007	human	empirical	identification	B-SIT	"12-item Brief Smell Identification Test"	high
+winchester2023	none	review	none	-	AI for biomarker discovery	high
+wolfensberger2000	human	methods	detection+discrimination+identification	Sniffin' Sticks T+D+I	the Sniffin' Sticks battery paper	high
+wu2013	rodent	empirical	detection	olfactory threshold test	"assessed behavioral and olfactory system pathology ... olfactory threshold test"	high
+yamazaki2023	human	case report	detection+discrimination+identification	Sniffin' Sticks	single hydrocephalus case	medium
+yang2009	rodent	methods	detection+discrimination	buried food + habituation/dishabituation	protocol paper covering detection and differentiation	high
+yu2018	human	empirical	detection+discrimination+identification	Sniffin' Sticks TDI	threshold, discrimination and identification across CN/MCI/AD	high
+yurimoto2024	primate	methods	none	-	marmoset olfactory fMRI system; no psychophysics	high
+zhang2022	rodent	methods	detection+discrimination	olfactory behaviour test battery	review of olfactory evaluation methods in AD model mice	high
